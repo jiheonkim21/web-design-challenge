@@ -1,0 +1,22 @@
+body{
+    background-color:white;
+}
+
+#jumbo{
+    width:30%;
+    margin: "10px";
+}
+
+#navbarSupportedContent{
+    width: 100%;
+}
+
+.visualizations{
+    width:100%;
+    margin: "10px";
+}
+
+.table{
+    .table-striped>tbody>tr:nth-child(odd)>td, 
+    .table-striped>tbody>tr:nth-child(odd)>th {
+}
